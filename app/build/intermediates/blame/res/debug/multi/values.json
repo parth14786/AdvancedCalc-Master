@@ -1,0 +1,260 @@
+[
+    {
+        "outputFile": "C:\\Users\\Parth\\Desktop\\Google Play - Working Applications\\AdvancedCalc - Master\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\Parth\\Desktop\\Google Play - Working Applications\\AdvancedCalc - Master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1176
+                },
+                "from": {
+                    "file": "C:\\Users\\Parth\\Desktop\\Google Play - Working Applications\\AdvancedCalc - Master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1181,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1316
+                },
+                "from": {
+                    "file": "C:\\Users\\Parth\\Desktop\\Google Play - Working Applications\\AdvancedCalc - Master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1534,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1321,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1462
+                },
+                "from": {
+                    "file": "C:\\Users\\Parth\\Desktop\\Google Play - Working Applications\\AdvancedCalc - Master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1122,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 1263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1467,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1592
+                },
+                "from": {
+                    "file": "C:\\Users\\Parth\\Desktop\\Google Play - Working Applications\\AdvancedCalc - Master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1268,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1597,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1728
+                },
+                "from": {
+                    "file": "C:\\Users\\Parth\\Desktop\\Google Play - Working Applications\\AdvancedCalc - Master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1398,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1529
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Parth\\AndroidStudioProjects\\AdvancedCalc - Master\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\Parth\\AndroidStudioProjects\\AdvancedCalc - Master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1176
+                },
+                "from": {
+                    "file": "C:\\Users\\Parth\\AndroidStudioProjects\\AdvancedCalc - Master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1181,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1316
+                },
+                "from": {
+                    "file": "C:\\Users\\Parth\\AndroidStudioProjects\\AdvancedCalc - Master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1534,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1321,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1462
+                },
+                "from": {
+                    "file": "C:\\Users\\Parth\\AndroidStudioProjects\\AdvancedCalc - Master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1122,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 1263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1467,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1592
+                },
+                "from": {
+                    "file": "C:\\Users\\Parth\\AndroidStudioProjects\\AdvancedCalc - Master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1268,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1597,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1728
+                },
+                "from": {
+                    "file": "C:\\Users\\Parth\\AndroidStudioProjects\\AdvancedCalc - Master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1398,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1529
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,89 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+C:\Users\Parth\AndroidStudioProjects\AdvancedCalc - Master
+                                                 - -      
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitattributes
+* .gitignore
+* COPYING
+* README
+* SOWGcalc-master.iml
+* icon\
+* icon\ic_launcher.png
+* out\
+* out\production\
+* out\production\SOWGcalc-master\
+* out\production\SOWGcalc-master\SOWGcalc-master.apk
+* out\production\SOWGcalc-master\SOWGcalc-master.unaligned.apk
+* out\production\SOWGcalc-master\com\
+* out\production\SOWGcalc-master\com\sowg\
+* out\production\SOWGcalc-master\com\sowg\calc\
+* out\production\SOWGcalc-master\com\sowg\calc\BuildConfig.class
+* out\production\SOWGcalc-master\com\sowg\calc\CalcGrammar.class
+* out\production\SOWGcalc-master\com\sowg\calc\CalcLexer$DFA12.class
+* out\production\SOWGcalc-master\com\sowg\calc\CalcLexer.class
+* out\production\SOWGcalc-master\com\sowg\calc\CalcLexer.g
+* out\production\SOWGcalc-master\com\sowg\calc\CalcLexer.tokens
+* out\production\SOWGcalc-master\com\sowg\calc\CalcParser.class
+* out\production\SOWGcalc-master\com\sowg\calc\CalcParser.g
+* out\production\SOWGcalc-master\com\sowg\calc\CalcParser.tokens
+* out\production\SOWGcalc-master\com\sowg\calc\Constants.class
+* out\production\SOWGcalc-master\com\sowg\calc\Helper.class
+* out\production\SOWGcalc-master\com\sowg\calc\Memory.class
+* out\production\SOWGcalc-master\com\sowg\calc\R$attr.class
+* out\production\SOWGcalc-master\com\sowg\calc\R$drawable.class
+* out\production\SOWGcalc-master\com\sowg\calc\R$id.class
+* out\production\SOWGcalc-master\com\sowg\calc\R$layout.class
+* out\production\SOWGcalc-master\com\sowg\calc\R$string.class
+* out\production\SOWGcalc-master\com\sowg\calc\R$style.class
+* out\production\SOWGcalc-master\com\sowg\calc\R.class
+* out\production\SOWGcalc-master\com\sowg\calc\SOWGButton.class
+* out\production\SOWGcalc-master\com\sowg\calc\SOWGEditText.class
+* out\production\SOWGcalc-master\com\sowg\calc\SOWGNumberKeyListener.class
+* out\production\SOWGcalc-master\com\sowg\calc\SOWGcalc.class
+* out\production\SOWGcalc-master\com\sowg\calc\Splash.class
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\antlr-runtime.jar => app\libs\antlr-runtime.jar
+* libs\cern-jet.jar => app\libs\cern-jet.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* src\net\util\advancedcalc\CalcLexer.g => app\src\main\resources\net\util\advancedcalc\CalcLexer.g
+* src\net\util\advancedcalc\CalcLexer.tokens => app\src\main\resources\net\util\advancedcalc\CalcLexer.tokens
+* src\net\util\advancedcalc\CalcParser.g => app\src\main\resources\net\util\advancedcalc\CalcParser.g
+* src\net\util\advancedcalc\CalcParser.tokens => app\src\main\resources\net\util\advancedcalc\CalcParser.tokens
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

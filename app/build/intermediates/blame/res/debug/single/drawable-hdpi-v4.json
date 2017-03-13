@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Parth\\Desktop\\Google Play - Working Applications\\AdvancedCalc - Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_background.png",
+        "source": "C:\\Users\\Parth\\Desktop\\Google Play - Working Applications\\AdvancedCalc - Master\\app\\src\\main\\res\\drawable-hdpi\\splash_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Parth\\AndroidStudioProjects\\AdvancedCalc - Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_background.png",
+        "source": "C:\\Users\\Parth\\AndroidStudioProjects\\AdvancedCalc - Master\\app\\src\\main\\res\\drawable-hdpi\\splash_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Parth\\Desktop\\Google Play - Working Applications\\AdvancedCalc - Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\Users\\Parth\\Desktop\\Google Play - Working Applications\\AdvancedCalc - Master\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Parth\\AndroidStudioProjects\\AdvancedCalc - Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\Users\\Parth\\AndroidStudioProjects\\AdvancedCalc - Master\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]
